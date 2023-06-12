@@ -30,5 +30,8 @@ En nuestro repositorio de GitHub, encontrarás una colección de proyectos que s
 - **🧠[Jefer - The Boss CEO]**: Jefer es un líder excepcional y visionario. su objetivo principal es dirigir y coordinar todas las actividades del equipo, asegurando que se cumplan los objetivos y plazos establecidos. Con su capacidad para motivar y guiar al equipo, Jefer crea un entorno de trabajo colaborativo y estimulante, impulsando el éxito del proyecto.
 - **🧠[Omar - The Boss Gerente]**: Omar es un líder inspirador y estratégico. su objetivo principal es establecer la visión y los objetivos del proyecto, así como proporcionar la dirección estratégica necesaria para su ejecución exitosa. Con su amplia experiencia y habilidades de gestión, Omar asegura que se alcancen los resultados deseados y se cumplan las expectativas del cliente.
 
+
+[Enlace-Diagrama]([URL ](https://viewer.diagrams.net/?tags=%7b%7d&highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=iuSUZXMfiHWB1LRKa2qH&title=12_Marco%20metodologico.0#Uhttps://drive.google.com/uc?id%3D1uniMuidOfKJkApTcu8ETpU2yXmgO1poD%26export%3Ddownload%23%7b%22pageId%22:%22iuSUZXMfiHWB1LRKa2qH%22%7d#%7B%22pageId%22%3A%22WE09Kzrg0BMxv4aXS3S-%22%7D))
+
 -------------------------------
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
