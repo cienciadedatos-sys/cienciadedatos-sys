@@ -1,3 +1,4 @@
+Actualizado el: 12/06/2023
 ### Bienvenido(a) a nuestro repositorio de GitHub - GIP 👋
 
 # Centro de Excelencia| IA | Data Science | IPA | OpenAI ⚡
