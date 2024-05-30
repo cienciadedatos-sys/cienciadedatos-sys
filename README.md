@@ -28,7 +28,7 @@ En nuestro repositorio de GitHub, encontrarás una colección de proyectos que s
 - **🧠[Henry - The Boss Gerente]**: Henry es un líder inspirador y estratégico. su objetivo principal es establecer la visión y los objetivos de la gerencia de transfomración digital, así como proporcionar la dirección estratégica necesaria para su ejecución exitosa. Con su amplia experiencia y habilidades de gestión, Henry asegura que se alcancen los resultados deseados y se cumplan las expectativas del cliente.
 
 
-[Enlace-Diagrama]([URL] (https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000FF&edit=_blank&layers=1&nav=1#G1rnEis7-WNTbsDlbtB8Qs9WaLRTuGglCo))
+[Enlace-Diagrama]([URL ] (https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000FF&edit=_blank&layers=1&nav=1#G1rnEis7-WNTbsDlbtB8Qs9WaLRTuGglCo))
 
 -------------------------------
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
